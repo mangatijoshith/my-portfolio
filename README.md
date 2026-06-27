@@ -44,7 +44,7 @@ A modern responsive portfolio website built using HTML, CSS, and JavaScript.
 **Mangati Joshith**
 
 - GitHub: https://github.com/mangatijoshith
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/mangatijoshith/
 
 ---
 
